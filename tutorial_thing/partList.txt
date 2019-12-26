@@ -1,0 +1,17 @@
+Motherboard
+CPU
+RAM
+ROM
+Cache
+Graphics card
+Sound Card
+Hard Drive
+Optical Disk Drive
+Network Interface Card
+SSD
+Ports 
+USB
+Monitors
+Mouse
+Keyboard
+PUT IN ORDERS
