@@ -10,7 +10,7 @@ class InOut extends Component {
  }*/
   
  public InOut(String name, String type, PImage pic, PImage desc) {
-  super(name);
+  this.name = name;
   this.type = type;
   this.pic = pic;
   this.desc = desc;
@@ -37,4 +37,6 @@ class InOut extends Component {
    return desc; }
    
 //othermethods 
+
+   
 }

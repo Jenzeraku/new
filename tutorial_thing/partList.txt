@@ -5,13 +5,12 @@ ROM
 Cache
 Graphics card
 Sound Card
+Network Interface Card
 Hard Drive
 Optical Disk Drive
-Network Interface Card
 SSD
-Ports 
 USB
+Ports 
 Monitors
 Mouse
 Keyboard
-PUT IN ORDERS

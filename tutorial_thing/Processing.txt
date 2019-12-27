@@ -1,0 +1,8 @@
+Motherboard
+CPU
+RAM
+ROM
+Cache
+Graphics card
+Sound Card
+Network Interface Card

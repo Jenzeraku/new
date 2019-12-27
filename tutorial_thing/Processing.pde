@@ -10,7 +10,7 @@ class Processing extends Component {
  }*/
   
  public Processing(String name, String type, PImage pic, PImage desc) {
-  super(name);
+  this.name = name;
   this.type = type;
   this.pic = pic;
   this.desc = desc;

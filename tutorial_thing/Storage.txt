@@ -1,0 +1,4 @@
+Hard Drive
+Optical Disk Drive
+SSD
+USB
